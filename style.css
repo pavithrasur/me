@@ -1,0 +1,83 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+.set1
+{
+    background-image: url(https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+    position: relative;
+    height: 850px;
+    width: 100%;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.set1 p 
+{
+   
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    position: absolute;
+    margin-top:50px ;
+    font-family: MV Boli;
+}
+.set1 h1 
+{
+   
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    position: absolute;
+    font-family: jackler West;
+    font-size: 25px;
+}
+.set2
+{
+    margin-top: 150px;
+    margin-left:15%;
+    font: 1em sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.set2 h1 
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+}
+.set2 p
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+.set2 ul
+{
+    margin-left: 580px;
+}
+.set3
+{
+    margin-top: 250px;
+}
+footer h1
+{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 15%;
+}
+footer p
+{
+    font-family: Monotype Corsiva;
+    text-align: center;
+    
+}
+.container
+{
+    text-align: center;
+}
