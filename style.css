@@ -48,6 +48,7 @@
     display: flex;
     justify-content: center;
     position: relative;
+    font-family: Segoe Print;
    
 }
 .set2 p
@@ -80,4 +81,10 @@ footer p
 .container
 {
     text-align: center;
+}
+.card > div
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
